@@ -25,15 +25,15 @@ https://ashu8477.github.io/DOMINOZ-UI/
 
 ### 🏠 Home Page
 
-![Home](assets/screenshots/home.png)
+![Home](assets/screenshots/Home.png)
 
 ### 🍕 Pizza Items Section
 
-![Pizza Items](assets/screenshots/pizza.png)
+![Pizza Items](assets/screenshots/Item.png)
 
 ### 🛒 Cart Page
 
-![Cart](assets/screenshots/cart.png)
+![Cart](assets/screenshots/Cart.png)
 
 ---
 
